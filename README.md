@@ -1,5 +1,5 @@
 # Text to Image
-
+![App Example](./example.png)
 ## Overview
 Text to Image is a web application that allows users to easily extract and copy text from any image using Optical Character Recognition (OCR). The application leverages Tesseract.js to process and recognize text in various languages, providing a simple and user-friendly interface to upload images and convert them into editable text.
 
